@@ -1,0 +1,1 @@
+# Analisis-sentimen-twitter-terhadap-KPK-menggunakan-naive-bayes
